@@ -1,0 +1,27 @@
+		body {
+			background-color: #9ad8db;
+		}
+
+		h1 {
+			font-family: 'Montserrat', sans-serif;
+			font-weight: 700;
+			font-size: 48px;
+			color: #ef5091;
+			text-align: center;
+		}
+
+		p {
+			font-family: 'Montserrat', sans-serif;
+			font-weight: 400;
+			font-size: 22px;
+			color: #494b51;
+			text-align: center;
+		}
+
+		.hello {
+			height: 250px;
+			width: 500px;
+			margin: 200px auto;
+			background-color: #FFFFFF;
+			border: 3px solid #8b8e99;
+		}
